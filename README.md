@@ -8,4 +8,4 @@ I work at the interface of **Machine Learning research and industrial innovation
 👉 [https://kamassury.github.io](https://kamassury.github.io)
 
 📫 **Contact & Academic Profiles**  
-[ORCID](https://orcid.org/0000-0001-8335-9796) • [LinkedIn](https://www.linkedin.com/in/jorgekamassury/)
+[ORCID](https://orcid.org/0000-0001-8335-9796) • [LinkedIn](https://www.linkedin.com/in/jorge-kamassury/)
