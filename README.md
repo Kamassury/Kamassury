@@ -1,11 +1,7 @@
-# 👋 Hi, I’m Jorge Kamassury
+### Hi, I'm Jorge Kamassury
 
-🎓 **PhD in Electrical Engineering (UFSC)** | 🔬 **AI Researcher at SENAI Institute of Innovation for Embedded Systems (ISI-SE)**  
+PhD in Electrical Engineering (UFSC). AI Researcher at [Fundação CERTI](https://certi.org.br), working on robust deep learning and physics-informed methods for mission-critical systems.
 
-I work at the interface of **Machine Learning research and industrial innovation**, developing robust AI systems for **predictive maintenance**, **sensor analytics**, and **process optimization**.
+I care about model reliability under imperfect data — noisy labels, uncertainty, distribution shift — and about bridging machine learning with mathematical physics.
 
-🌐 **Visit my personal website:**  
-👉 [https://kamassury.github.io](https://kamassury.github.io)
-
-📫 **Contact & Academic Profiles**  
-[ORCID](https://orcid.org/0000-0001-8335-9796) • [LinkedIn](https://www.linkedin.com/in/jorge-kamassury/)
+🌐 [kamassury.github.io](https://kamassury.github.io) &nbsp;•&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) &nbsp;•&nbsp; 🔗 [ORCID](https://orcid.org/0000-0002-0279-9446) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kamassury)
