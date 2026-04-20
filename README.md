@@ -1,6 +1,6 @@
 ### Hi, I'm Jorge Kamassury
 
-PhD in Electrical Engineering (UFSC). AI Researcher at [Fundação CERTI](https://certi.org.br), working on robust deep learning and physics-informed methods for mission-critical systems.
+PhD in Electrical Engineering (UFSC). AI Researcher at [CERTI Foundation](https://certi.org.br), working on robust deep learning and physics-informed methods for mission-critical systems.
 
 I care about model reliability under imperfect data — noisy labels, uncertainty, distribution shift — and about bridging machine learning with mathematical physics.
 
